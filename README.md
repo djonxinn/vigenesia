@@ -11,7 +11,8 @@ Mata kuliah Teknologi Web Service menggunakan model pembelajaran berbasis projek
 - Vs Code
 
 ## Installation
-- Clone this project
+Clone this project
+
 ```## Installation
 - Clone this project
 ```
@@ -20,8 +21,8 @@ git clone https://github.com/djonxinn/vigenesia.git
 - Open with your ide
 - Run
 ```
-flutter pub get
-flutter run
+- flutter pub get
+- flutter run
 ```
 
 ## Author
