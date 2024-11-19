@@ -13,11 +13,12 @@ Mata kuliah Teknologi Web Service menggunakan model pembelajaran berbasis projek
 ## Installation
 Clone this project
 
-```## Installation
+## Installation
 - Clone this project
-```
+
+``
 git clone https://github.com/djonxinn/vigenesia.git
-```
+
 - Open with your ide
 - Run
 ```
