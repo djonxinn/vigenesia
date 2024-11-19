@@ -16,7 +16,7 @@ Clone this project
 ## Installation
 - Clone this project
 
-``
+
 git clone https://github.com/djonxinn/vigenesia.git
 
 - Open with your ide
